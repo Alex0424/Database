@@ -1,13 +1,13 @@
 # Exam-database
 
-## Alexander Lindholm och Traitep Nammala
+## Read more about the assignmen from the `/exam` directory
 
+## Alexander Lindholm and Traitep Nammala
+
+#### Completion proof:
 ![image](https://github.com/user-attachments/assets/ae490fa0-6e11-4482-a875-de2dd963f695)
 
-
-### Jag följde stegen från readme.md
-
-### Här är kommandon jag gjorde:
+### These are the commands we used to solve the exam assignment:
 
 ```
 cd /course_data/labs/exam
