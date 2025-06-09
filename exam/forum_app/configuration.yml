@@ -1,0 +1,24 @@
+---
+# SPDX-FileCopyrightText: © 2024 Menacit AB <foss@menacit.se>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+# X-Context: Database course - Examination lab - Forum application configuration
+
+# Set to "DEBUG" for additional application logging
+log_level: "INFO"
+
+# Key == Username, Value == Password
+app_users:
+  "db_app_user": "1234"
+  "malory": "h3art_rich"
+  "cheryl": "Babou2024."
+  "cyril": "SUPPRESSINGF1RE"
+  "pam": "SwedishMeatballs"
+
+# Connection configuration for database
+database_settings:
+  remote_hosts:
+    - "database-1.int.agency.test"
+
+  database_name: "forum_data"
+  user: "admin"
+  password: "Ct=Snackul4"
